@@ -475,7 +475,7 @@ article .icon {
 /* FOOTER SECTION */
 
 footer {
-  height: 20vh;
+  height: 5vh;
   margin-top: 15px;
   /* margin-bottom: 0px; */
   transition: height 0.3s ease, margin 0.3s ease;
